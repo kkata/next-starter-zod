@@ -1,5 +1,5 @@
 {
-  "name": "next-starter",
+  "name": "next-starter-zod",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -28,7 +28,8 @@
     "next": "13.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "typescript": "5.0.4",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
